@@ -37,6 +37,17 @@ dependencies:
   google_fonts: ^6.1.0
   percent_indicator: ^4.2.3
   flutter_svg: ^2.0.9
+  scroll_snap_list: ^0.9.1
+  snappy_list_view: ^0.1.0
+  dropdown_button2: ^2.3.9
+  mirai_dropdown_menu: ^0.0.8+2
+  font_awesome_flutter: ^10.7.0
+  cloud_firestore: ^4.15.4
+  firebase_auth: ^4.17.4
+  firebase_core: ^2.25.4
+  sqflite: ^2.3.2
+  path_provider: ^2.1.2
+  sqflite_common_ffi: ^2.3.2+1
 
 dev_dependencies:
   flutter_test:
